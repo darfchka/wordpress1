@@ -1,0 +1,156 @@
+0000.001 (0) Opened log file at time: Mon, 11 Jan 2021 15:14:03 +0000 on http://localhost/wordpress
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.46 WP: 5.6 PHP: 7.4.9 (apache2handler, Windows NT MININT-CFGM794 10.0 build 18363 (Windows 10) AMD64) MySQL: 10.4.14-MariaDB WPLANG: fr_FR Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.9 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 32.7M | 4M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 183774.3 MB
+0000.007 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.010 (0) Semaphore (fd, wp_options) being initialised
+0000.014 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.019 (0) Set semaphore last lock (fd) time to 2021-01-11 15:14:03
+0000.020 (0) Semaphore lock (fd) complete
+0000.024 (0) Backup run: resumption=0, nonce=73c6819c79fb, file_nonce=73c6819c79fb begun at=1610378043 (0s ago), job type=backup
+0000.027 (0) Scheduling a resumption (1) after 300 seconds (1610378343) in case this run gets aborted
+0000.037 (0) Checking if we have a zip executable available
+0000.040 (0) Creation of backups of directories: beginning
+0000.047 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.540 (0) Total entities for the zip file: 241 directories, 1483 files (0 skipped as non-modified), 28.3 MB
+0000.640 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.679 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.717 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.750 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.791 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.833 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.865 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.893 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 1483 files batched, 785 (785) added so far); re-opening (prior size: 0 KB)
+0002.841 (0) A useful amount of data was added after this amount of zip processing: 3.1 s (normalised: 3.1 s, rate: 8221.4 KB/s)
+0002.844 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.1141350269318, normalised_time=3.1138429378592, max_time=2.8422560691833, data points known=1, old_max_bytes=26214400, new_max_bytes=50511988)
+0002.858 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 800 files added (on-disk size: 7884.2 KB)
+0002.890 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 900 files added (on-disk size: 7884.2 KB)
+0002.925 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 1000 files added (on-disk size: 7884.2 KB)
+0002.955 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 1100 files added (on-disk size: 7884.2 KB)
+0002.985 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 1200 files added (on-disk size: 7884.2 KB)
+0003.015 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 1300 files added (on-disk size: 7884.2 KB)
+0003.046 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip.tmp: 1400 files added (on-disk size: 7884.2 KB)
+0003.510 (0) Created plugins zip (0) - 9035.4 KB in 3.5 s (2611.5 KB/s) (sha1: 661d3c58f496f6c57ee233a30c9d2bb7eed621b4, sha256: d3856a3187dca8b7db94fa3be84bc7a4df0db476a7d5e3066d0795f0dc103c74)
+0003.515 (0) Beginning creation of dump of themes (split every: 400 MB)
+0003.711 (0) Total entities for the zip file: 156 directories, 579 files (0 skipped as non-modified), 15.7 MB
+0003.743 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0003.781 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0004.347 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0004.693 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0005.230 (0) Zip: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0006.501 (0) Created themes zip (0) - 8641 KB in 3 s (2897.6 KB/s) (sha1: 23c71a9fe6fd42fb04848e704acbd4f843960402, sha256: 78921276071038faf4afbb5c46471de69199e776c6405fe01b158dffa8bcae12)
+0006.505 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0006.507 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content/uploads
+0006.509 (0) finding files: 2021: adding to list (1)
+0006.511 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0006.523 (0) Total entities for the zip file: 2 directories, 31 files (0 skipped as non-modified), 2.2 MB
+0006.574 (0) Created uploads zip (0) - 2251.9 KB in 0.1 s (37160.2 KB/s) (sha1: 1bd12bb78ed90e60b8e7fdef6e02a235958549e0, sha256: 9a1365ec1604d84df2b673f6ef5674ccf3159c4e8839326c383cbdda2a484b45)
+0006.579 (0) Beginning backup of other directories found in the content directory (index: 0)
+0006.581 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0006.582 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress/wp-content
+0006.584 (0) finding files: index.php: adding to list (1)
+0006.585 (0) finding files: languages: adding to list (2)
+0006.586 (0) finding files: plugins: skipping: this is the plugins directory
+0006.587 (0) finding files: themes: skipping: this is the themes directory
+0006.588 (0) finding files: updraft: skipping: this is the updraft directory
+0006.589 (0) finding files: upgrade: skipping: excluded by options
+0006.590 (0) finding files: uploads: skipping: this is the uploads directory
+0006.614 (0) Total entities for the zip file: 3 directories, 78 files (0 skipped as non-modified), 3.3 MB
+0006.935 (0) Created others zip (0) - 955.9 KB in 0.3 s (2799.9 KB/s) (sha1: 2cc0e4491e2cf1e3c47eb70e48244174658133e2, sha256: 82728429de6d78d84e5287d47b6a73ec417821d266a4d4b68bad56f8b5d2710f)
+0006.942 (0) Saving backup status to database (elements: 8)
+0006.946 (0) Beginning creation of database dump (WordPress DB)
+0006.948 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0006.972 (0) Table wp_options: Total expected rows (approximate): 177
+0007.011 (0) Table wp_options: Rows added in this batch (next record: 245): 177 (uncompressed bytes in this segment=565382) in 0.04 seconds
+0007.027 (0) Table wp_options: finishing file(s) (2, 118.3 KB)
+0007.031 (0) Table wp_users: Total expected rows (approximate): 1
+0007.045 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1354) in 0.01 seconds
+0007.057 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0007.061 (0) Table wp_usermeta: Total expected rows (approximate): 17
+0007.072 (0) Table wp_usermeta: Rows added in this batch (next record: 17): 17 (uncompressed bytes in this segment=1629) in 0.01 seconds
+0007.084 (0) Table wp_usermeta: finishing file(s) (2, 0.9 KB)
+0007.088 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0007.098 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.01 seconds
+0007.110 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0007.114 (0) Table wp_comments: Total expected rows (approximate): 1
+0007.127 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2178) in 0.01 seconds
+0007.139 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0007.145 (0) Table wp_links: Total expected rows (approximate): 0
+0007.160 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.01 seconds
+0007.173 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0007.177 (0) Table wp_postmeta: Total expected rows (approximate): 41
+0007.188 (0) Table wp_postmeta: Rows added in this batch (next record: 43): 41 (uncompressed bytes in this segment=9189) in 0.01 seconds
+0007.209 (0) Table wp_postmeta: finishing file(s) (2, 1.7 KB)
+0007.271 (0) Table wp_posts: Total expected rows (approximate): 23
+0007.290 (0) Table wp_posts: Rows added in this batch (next record: 24): 23 (uncompressed bytes in this segment=53843) in 0.02 seconds
+0007.304 (0) Table wp_posts: finishing file(s) (2, 7.6 KB)
+0007.309 (0) Table wp_term_relationships: Total expected rows (approximate): 1
+0007.326 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 1 (uncompressed bytes in this segment=692) in 0.02 seconds
+0007.338 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0007.342 (0) Table wp_term_taxonomy: Total expected rows (approximate): 1
+0007.357 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=908) in 0.01 seconds
+0007.369 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.4 KB)
+0007.374 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0007.384 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=657) in 0.01 seconds
+0007.396 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0007.400 (0) Table wp_terms: Total expected rows (approximate): 1
+0007.410 (0) Table wp_terms: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=717) in 0.01 seconds
+0007.422 (0) Table wp_terms: finishing file(s) (2, 0.4 KB)
+0007.425 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_options.table.tmpr246.gz (1/12): adding to final database dump
+0007.444 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_options.table.gz (2/12): adding to final database dump
+0007.446 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_users.table.tmpr2.gz (3/12): adding to final database dump
+0007.448 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_users.table.gz (4/12): adding to final database dump
+0007.450 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_usermeta.table.tmpr18.gz (5/12): adding to final database dump
+0007.452 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_usermeta.table.gz (6/12): adding to final database dump
+0007.453 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_commentmeta.table.tmpr0.gz (7/12): adding to final database dump
+0007.455 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_commentmeta.table.gz (8/12): adding to final database dump
+0007.457 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_comments.table.tmpr2.gz (9/12): adding to final database dump
+0007.459 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_comments.table.gz (10/12): adding to final database dump
+0007.460 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_links.table.tmpr0.gz (11/12): adding to final database dump
+0007.462 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_links.table.gz (12/12): adding to final database dump
+0007.463 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_postmeta.table.tmpr44.gz (13/12): adding to final database dump
+0007.465 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_postmeta.table.gz (14/12): adding to final database dump
+0007.467 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_posts.table.tmpr25.gz (15/12): adding to final database dump
+0007.470 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_posts.table.gz (16/12): adding to final database dump
+0007.471 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_term_relationships.table.tmpr100001.gz (17/12): adding to final database dump
+0007.472 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_term_relationships.table.gz (18/12): adding to final database dump
+0007.474 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_term_taxonomy.table.tmpr2.gz (19/12): adding to final database dump
+0007.475 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_term_taxonomy.table.gz (20/12): adding to final database dump
+0007.476 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_termmeta.table.tmpr0.gz (21/12): adding to final database dump
+0007.477 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_termmeta.table.gz (22/12): adding to final database dump
+0007.479 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_terms.table.tmpr2.gz (23/12): adding to final database dump
+0007.480 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db-table-wp_terms.table.gz (24/12): adding to final database dump
+0007.498 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db.gz: finished writing out complete database file (120 KB)
+0007.514 (0) Total database tables backed up: 12 (backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db.gz, size: 132506, sha1: 2f43afa9b4e8428ec5920da9dc90bc3cb52780e8, sha256: 03ded6e9fe1fa85c8f4ce368546a6eccbe0f733a4d1f0f6073c04d78104fe959)
+0007.521 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0007.523 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0007.524 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0007.525 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-others.zip: others: This file has not yet been successfully uploaded: will queue
+0007.526 (0) backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db.gz: db: This file has not yet been successfully uploaded: will queue
+0007.527 (0) Saving backup history. Total backup size: 20.5 MB
+0007.529 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0007.533 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0007.534 (0) No remote despatch: user chose no remote backup service
+0007.535 (0) Recording as successfully uploaded: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-plugins.zip
+0007.537 (0) Recording as successfully uploaded: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-themes.zip
+0007.540 (0) Recording as successfully uploaded: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-uploads.zip
+0007.542 (0) Recording as successfully uploaded: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-others.zip
+0007.545 (0) Recording as successfully uploaded: backup_2021-01-11-1614_Portfolio_David_Bilny_73c6819c79fb-db.gz
+0007.549 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0007.550 (0) Number of backup sets in history: 1; groups (db): 1
+0007.551 (0) Examining (for databases) backup set with group_id=0, nonce=73c6819c79fb, datestamp=1610378043 (Jan 11 2021 15:14:03)
+0007.552 (0) This backup set is the backup set just made, so will not be deleted.
+0007.552 (0) Number of backup sets in history: 1; groups (files): 1
+0007.553 (0) Examining (for files) backup set with nonce=73c6819c79fb, datestamp=1610378043 (Jan 11 2021 15:14:03)
+0007.553 (0) This backup set is the backup set just made, so will not be deleted.
+0007.553 (0) This backup set is the backup set just made, so will not be deleted.
+0007.554 (0) This backup set is the backup set just made, so will not be deleted.
+0007.554 (0) This backup set is the backup set just made, so will not be deleted.
+0007.554 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0007.555 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0007.558 (0) Resume backup (73c6819c79fb, 0): finish run
+0007.562 (0) Decremented the semaphore (fd) by 1
+0007.564 (0) Semaphore (fd) unlocked
+0007.566 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0007.570 (0) The backup apparently succeeded and is now complete
+0007.571 (0) No email will/can be sent - the user has not configured an email address.
+0007.573 (0) La sauvegarde a apparemment réussi et est maintenant terminée
